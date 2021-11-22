@@ -1,0 +1,95 @@
+*{ padding:0;
+    margin: 0;
+}
+
+.home-container{
+    background:rgba(10, 61, 10, 0.822);
+    height:150vh;
+    width:100%;
+    background-image: url(../assets/IMAGE/image7.jpg);
+    background-size: cover;
+    
+    
+}
+.homebody{
+    height:100%;
+    background:rgba(0, 0, 0, 0.315);
+    /* background-size: cover; */  
+    
+
+
+}
+.home-bg h1{
+    color:white;
+    font-size: 40px;
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 10px;
+
+
+
+}
+.qoute-div{
+     width:35%;
+    height:50vh;
+    background:rgba(0, 0, 0, 0.842);
+    float: right;
+    box-shadow: 1px 3px 8px 5px rgba(172, 255, 47, 0.692);
+    margin-right: 5vh; 
+    margin-top: 15vh;
+    border-bottom-left-radius: 20%;
+    border-top-left-radius: 5%;
+    border-top-right-radius: 5%;
+    border-bottom-right-radius: 20%;
+    color: white;
+   
+}
+.qoute-div p{
+margin-top:15px;
+font-size:20px;
+color: white;
+}
+button{ 
+    border-radius: 10px;
+   text-align: center;
+  margin-top: 25%; 
+  width: 200px;
+height: 40px;
+  font-size: 20px;
+  margin-left: 30%;
+  margin-top: 35%;
+  padding: 10px;
+  font-weight: 70px;
+
+  /* color:#863b06; */
+}  
+button a{
+    color: olivedrab;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.Signin-form{
+    width:40%;
+    height:70vh;
+    background:olivedrab;
+    margin: auto;
+    padding:5vh;
+    text-align: center;
+    /* padding-left: 20%; */
+    
+}
+.Signin-form input{
+    padding:10px;
+    margin:5px;
+    width:65%;
+    float: right;    
+}
+.signin-form label{
+    padding:10px;
+    margin-top: 5px;
+    float: left;
+    font-size: 20px;
+    width:30%;
+    text-align: left;
+}

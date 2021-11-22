@@ -1,0 +1,160 @@
+.footer-container{
+    background:black;
+    height:30%;
+    width:100%;
+    display: flex;
+    margin-top: 50%;
+    color:white;
+    
+}
+.About-footer h1{
+    font-size: 100%;
+    font-family: cursive;
+    margin-left: 20%;
+    margin-top: 20%;
+
+}
+.About-footer h2{
+    font-size: 100%;
+    font-family: cursive;
+    margin-left: 20%;
+
+}
+.About-footer h3{
+    font-size: 100%;
+    font-family: cursive;
+    margin-left: 20%;
+}
+.About-footer h4{
+    font-size: 100%;
+    font-family: cursive;
+    margin-left: 20%;
+}
+.About-footer h5{
+    font-size: 100%;
+    font-family: cursive;
+    margin-left: 20%;
+}
+.About-footer h6{
+    font-size: 100%;
+    font-family: cursive;
+    margin-left: 20%;
+}
+.About-footer h7{
+    font-size: 100%;
+    font-family: cursive;
+    margin-left: 20%;
+}
+.parks h1{
+    font-size: 100%;
+    font-family: cursive;
+    margin-left: 20%;
+    margin-top: 20%;
+
+}
+
+.parks h2{
+    font-size: 100%;
+    font-family: cursive;
+    margin-left: 20%;
+    /* margin-top: 20%; */
+
+}
+.parks h3{
+    font-size: 100%;
+    font-family: cursive;
+    margin-left: 20%;
+    /* margin-top: 20%; */
+
+}
+.parks h4{
+    font-size: 100%;
+    font-family: cursive;
+    margin-left: 20%;
+    /* margin-top: 20%; */
+
+}
+.work-p h1{
+    font-size: 100%;
+    font-family: cursive;
+    margin-left: 40%;
+    margin-top: 25%;
+
+}
+.work-p h2{
+    font-size: 100%;
+    font-family: cursive;
+    margin-left: 40%;
+    /* margin-top: 20%; */
+
+}
+.work-p h3{
+    font-size: 100%;
+    font-family: cursive;
+    margin-left: 40%;
+    /* margin-top: 20%; */
+
+}
+.work-p h4{
+    font-size: 100%;
+    font-family: cursive;
+    margin-left: 40%;
+    /* margin-top: 20%; */
+
+}
+.line{
+    height: 80%;
+    width: 3px;
+    background-color:white;
+    margin-top: 3%;
+    display: flex;
+}
+.line p1{
+    padding-left: 2000%;
+    font-size:30px;
+    color:white;
+    border-radius: 50px;
+}
+.line p2{
+    padding-left: 200%;
+    font-size:30px;
+    border-radius: 50%;
+}
+.line p3{
+    padding-left: 200%;
+    font-size:30px;  
+
+}
+.line p4{
+    padding-left: 200%;
+    font-size:30px;  
+    border-radius: 20%;
+} 
+.footer-container img{
+    border-radius:30%;
+margin-left: 5%;
+margin-top: 10%;
+width:8%;
+height:20%
+}
+.backword {
+display: flex;
+}
+.backword p1{
+    font-size: 10px;
+    font-family: sans-serif;
+    margin-top:80% ;
+    margin-left: 30px;
+}
+.backword p3{
+    font-size: 10px;
+    font-family: sans-serif;
+    margin-top:80% ;
+    margin-left: 30px;  
+}
+.backword p4{
+    font-size: 10px;
+    font-family: sans-serif;
+    margin-top:80% ;
+    margin-left: 30px;
+}

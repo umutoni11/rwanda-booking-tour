@@ -1,0 +1,38 @@
+.header{
+   height:15vh;
+   width:100%;
+   background:rgba(0, 0, 0, 0.849);
+    /* padding:10px 35px 10px 35px;  */
+/* display: flex; */
+/* text-align: center; */
+box-shadow: 0px 10px 15px olivedrab;
+}
+ 
+
+.logo img{ 
+     height: 70px; 
+     float: left;
+    margin-left: 20px; 
+     margin-top: 15px; 
+     width:100px; 
+    
+ } 
+.topnav a{
+
+padding:10px;
+background:olivedrab;
+font-size:larger;
+margin-top: 20px;
+color:white;
+margin-right: 30px;
+/* display: flex; */
+float:right; 
+border-start-start-radius: 70px;
+
+}
+ .topnav a:hover{
+     background: rgb(3, 37, 3);
+      color:greenyellow;
+
+
+ }

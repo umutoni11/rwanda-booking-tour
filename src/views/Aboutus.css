@@ -1,0 +1,51 @@
+.aboutus-separate{
+    display: flex;
+}
+
+
+
+.aboutus-div{
+    
+    height:50vh;
+    width: 70vh;
+    margin-left: 100px;
+    margin-top: 80px;
+    padding:40px;
+    background-color: black;
+    /* display: flex; */
+    
+}
+.aboutus-div h1{
+    text-align: center;
+}
+.aboutus-div p{
+    color:white;
+    padding:30px;
+    font-family: cursive;
+}
+.aboutus-line{
+    color:white;
+    height:70vh;
+    width:5px;
+    background-color:white;
+    margin-left: 20px;
+    margin-top: 40px;
+
+}
+.aboutus-key {
+    height:50vh;
+    width: 70vh;
+    margin-left: 5px;
+    margin-top: 80px;
+    padding:40px;
+    background-color: black;  
+}
+.aboutus-key h2{
+    text-align: center;
+    color: white;
+}
+.aboutus-key p1{
+    color:white;
+    padding:30px;
+    font-family: cursive;
+}
