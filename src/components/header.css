@@ -20,14 +20,15 @@ box-shadow: 0px 10px 15px olivedrab;
 .topnav a{
 
 padding:10px;
-background:olivedrab;
+
 font-size:larger;
 margin-top: 20px;
 color:white;
+background-color: olivedrab;
 margin-right: 30px;
 /* display: flex; */
 float:right; 
-border-start-start-radius: 70px;
+border-end-start-radius: 20px; 
 
 }
  .topnav a:hover{

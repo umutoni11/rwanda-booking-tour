@@ -3,13 +3,15 @@ import "./Homelayout.css"
 import Header from "./Header"
 import Footer from "./footer"
 import Contact from "../views/contact";
+
+
 const Homelayout = ({ children }) => {
      return (
           <div className="home-container">
                <Header />
-               {/* <div style={{height:"120%"}}> */}
+               <div style={{minheight:"80vh"}}>
                     {children}
-               {/* </div> */}
+               </div>
                
                <Footer/>
 

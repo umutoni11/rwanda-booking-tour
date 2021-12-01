@@ -22,7 +22,7 @@ most ecologically diverse portfolio of parks under management by any one NGO on 
 
 
 
-<div className="aboutus-line"></div>
+{/* <div className="aboutus-line"></div> */}
 <div className="aboutus-key">
 <h2> Saving Wildlife</h2><br></br>
 <p1>
@@ -35,7 +35,7 @@ Our 1000 rangers provide safety for both wildlife and people<br></br>
 </div>
 
 </div>
-
+<div className="about-background"></div>
 </HomeLayout>
 
        

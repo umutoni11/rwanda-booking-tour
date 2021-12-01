@@ -14,7 +14,7 @@ const Signin=()=>{
 <label for="input">Password:</label>
 <input type="password"/><br></br>
 
-<input type="button" value="submit"></input> 
+<a><input type="button" value="Log In"></input> </a>
 </div>
 </HomeLayout>
 

@@ -1,0 +1,38 @@
+[{
+"First Name":"Giramata",
+"Second Name":"Esther",
+"Email":"dbbbdbb@gmail.com",
+"Phone":"0788888888",
+"Adress":"Kigali KG10030",
+"Detail":"Accept",
+"detail":"Decline"
+
+},
+
+
+{
+    "First Name":"Gigi",
+    "Second Name":"Danny",
+    "Email":"dbbbdbb@gmail.com",
+    "Phone":"0788888888",
+    "Adress":"Kigali KG10030",
+    "Action":"Accept",
+"action":"Decline"
+    },
+    
+
+    {
+        "First Name":"Keke",
+        "Second Name":"Manzi",
+        "Email":"dbbbdbb@gmail.com",
+        "Phone":"0788888888",
+        "Adress":"Kigali KG10030",
+        "Action":"Accept",
+"action":"Decline"
+        }
+
+
+
+
+
+]

@@ -8,22 +8,24 @@
     
     height:50vh;
     width: 70vh;
-    margin-left: 100px;
+    margin-left: 200px;
     margin-top: 80px;
     padding:40px;
     background-color: black;
+    /* border-radius: 50%; */
     /* display: flex; */
     
 }
 .aboutus-div h1{
     text-align: center;
+    color: white;
 }
 .aboutus-div p{
     color:white;
     padding:30px;
     font-family: cursive;
 }
-.aboutus-line{
+/* .aboutus-line{
     color:white;
     height:70vh;
     width:5px;
@@ -31,7 +33,7 @@
     margin-left: 20px;
     margin-top: 40px;
 
-}
+} */
 .aboutus-key {
     height:50vh;
     width: 70vh;
@@ -39,6 +41,7 @@
     margin-top: 80px;
     padding:40px;
     background-color: black;  
+    /* border-radius: 50%; */
 }
 .aboutus-key h2{
     text-align: center;
@@ -48,4 +51,11 @@
     color:white;
     padding:30px;
     font-family: cursive;
+}
+.about-background{
+    background-color: black;
+    height: 50vh;
+    width:70vh;
+    margin-top: 30px;
+    margin-left: 200px;
 }
