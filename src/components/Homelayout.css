@@ -3,7 +3,7 @@
 }
 
 .home-container{
-    background:rgba(10, 61, 10, 0.822);
+     background:rgba(10, 61, 10, 0.822); 
     min-height:80vh;
     width:100%;
     background-image: url(../assets/IMAGE/image7.jpg);
@@ -20,11 +20,12 @@
 
 }
 .home-bg h1{
-    color:white;
+
     font-size: 40px;
     font-family: sans-serif;
     text-align: center;
     margin-top: 10px;
+    color: white;
 
 
 
@@ -32,7 +33,7 @@
 .qoute-div{
      width:35%;
     height:50vh;
-    background:rgba(0, 0, 0, 0.842);
+     background:rgba(0, 0, 0, 0.842); 
     float: right;
     box-shadow: 1px 3px 8px 5px rgba(172, 255, 47, 0.692);
     margin-right: 5vh; 
@@ -41,8 +42,14 @@
     border-top-left-radius: 5%;
     border-top-right-radius: 5%;
     border-bottom-right-radius: 20%; */
-    color: white;
+    /* color: white; */
    
+}
+.qoute-div h2{
+    color: white;
+    margin-bottom: 20px;
+    padding: 20px;
+    text-align: center;
 }
 .qoute-div p{
 margin-top:15px;
@@ -51,6 +58,7 @@ color: white;
 padding-left: 20px;
 }
 button{ 
+    color: white;
     border-radius: 10px;
    text-align: center;
   /* padding-top: 45%;  */
@@ -59,17 +67,16 @@ height: 40px;
   font-size: 20px;
   margin-left: 50%;
   margin-top: 35%;
-  /* margin-left: 30%;
-  margin-top: 35%;
-  padding: 10px; */
+  
+  
+  
 
 
-  /* color:#863b06; */
+  
 }  
 button a{
-    color: olivedrab;
+    color: black;
     font-size: 20px;
-    text-decoration: none;
     font-weight: bold;
     
 }
@@ -102,7 +109,7 @@ button a{
     font-weight: bolder;
 }
 .Tours-div{
-    background-color: #556b2f;
+    background-color: olivedrab;
     height:230vh;
     width:100%;
     padding-top: 100px;
@@ -166,11 +173,13 @@ padding-left: 20px;
 .singletour-container{
     width:90%;
     /* height:10vh; */
-    background-color:rgba(128, 128, 128, 0.219);
+    background-color:olivedrab;
     /* margin-left: 50px; */
     /* display: flex; */
     border-radius: 40px;
     text-align: center;
+    margin-top: -50px;
+
 }
 .singletour-container p{
    margin-left: 20px;
@@ -190,10 +199,10 @@ font-size:x-large;
 
 } 
 .garelly-container{
-    background-color:pink;
+    background-color:black;
 }
-.contact-div{
-    background-color:rgba(0, 0, 0, 0.582);
+ .contact-div{
+    
     height: 90vh;
     width:80%;
     margin-top: 40px;
@@ -202,32 +211,28 @@ font-size:x-large;
     text-align: center; 
     font-family: cursive;
     font-weight: bolder;
+    background-color: rgba(0, 0, 0, 0.548);
     
 }
-.contact-div-1{
-    color:white;
-    margin-left :110px ;
-}
-
-
-
 .contact-div h1{
     color: white;
 }
-.contact-div h2{
+.contact-div-1 h2{
     color: white;
 }
-.contact-div h3{
+.contact-div-1 h3{
+    color:white;
+}
+.contact-div-1 h4{
     color: white;
 }
-.contact-div h4{
+.contact-div-1 h5{
     color: white;
 }
-.button a{
-    height:10%;
-    width:30%;
+.button p{
     color: white;
 }
-.contact-div h5{
+
+.line3{
     color: white;
 }

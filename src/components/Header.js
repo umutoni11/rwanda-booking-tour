@@ -3,9 +3,12 @@ import Home from "../views/home";
 import "./header.css";
 import logo from "../assets/IMAGE/logo11.jpg";
 import {useNavigate} from "react-router-dom";
-import {Modal,Form,Input,Button} from "antd"
+import {Modal,Form,Input,Button} from "antd" 
+
+ 
 const Header=()=>{
     const [visible,setVisible]=useState(false);
+  
     const onFinish=(values)=>{
         console.log(values)
     }
@@ -39,7 +42,7 @@ const Header=()=>{
         </Modal>
 
     <div className="header"> 
-    <div className="logo">
+    <div className="logocontainer">
         <img src={logo}/>
     </div>
     

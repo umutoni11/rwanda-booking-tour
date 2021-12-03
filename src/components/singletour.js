@@ -34,24 +34,37 @@ return(
     <div style={{width:"25%",margin:10}}>
         <img src={data?.images[1]} style={{width:"100%",borderRadius:"20px",height:"50%"}} />
     </div>
-    <div style={{width:"25%",margin:10}}>
+    <div style={{width:"25%",margin:5}}>
     <img src={data?.images[2]} style={{width:"100%",borderRadius:"20px",height:"50%"}} />
     </div>
 
-    <div style={{width:"25%",margin:10}}>
+    <div style={{width:"25%",margin:5}}>
     <img src={data?.images[3]} style={{width:"100%",borderRadius:"20px",height:"50%"}} />
     </div>
 
-    <div style={{width:"25%",margin:10}}>
+    <div style={{width:"25%",margin:5}}>
     <img src={data?.images[4]} style={{width:"100%",borderRadius:"20px",height:"50%"}} />
     </div>
 
-    <div style={{width:"25%",margin:10}}>
+    <div style={{width:"25%",margin:5}}>
     <img src={data?.images[5]} style={{width:"100%",borderRadius:"20px",height:"50%"}} />
     </div>
 
-    <div style={{width:"25%",margin:10}}>
+    <div style={{width:"25%",margin:5}}>
     <img src={data?.images[6]} style={{width:"100%",borderRadius:"20px",height:"50%"}} />
+    </div>
+    <div style={{width:"25%",margin:5}}>
+    <img src={data?.images[6]} style={{width:"100%",borderRadius:"20px",height:"50%"}} />
+    </div>
+
+    <div style={{width:"25%",margin:5}}>
+    <img src={data?.images[7]} style={{width:"100%",borderRadius:"20px",height:"50%"}} />
+    </div>
+    <div style={{width:"25%",margin:5}}>
+    <img src={data?.images[7]} style={{width:"100%",borderRadius:"20px",height:"50%"}} />
+    </div>
+    <div style={{width:"25%",margin:5}}>
+    <img src={data?.images[7]} style={{width:"100%",borderRadius:"20px",height:"50%"}} />
     </div>
     </div>
 

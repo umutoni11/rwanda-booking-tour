@@ -10,7 +10,7 @@ const Home = () => {
                 <div className="qoute-div">
                     <h2> Book Tour with Us</h2>
                     <p>Lorem Ipsum Excepteur consequat officia enim est id mollit aliqua</p>
-                    <button class="button"><a href="#">Book Now!</a></button>
+                    <button class="button"><a href="Signin">Book Now!</a></button>
                 </div>
               
     </div>

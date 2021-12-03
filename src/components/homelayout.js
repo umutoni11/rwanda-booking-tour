@@ -3,6 +3,7 @@ import "./Homelayout.css"
 import Header from "./Header"
 import Footer from "./footer"
 import Contact from "../views/contact";
+import CreateAccount from "../views/CreateAccount";
 
 
 const Homelayout = ({ children }) => {

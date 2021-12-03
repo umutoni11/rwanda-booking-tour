@@ -7,6 +7,8 @@ import Header from "../components/Header";
 import { InstagramOutlined } from "@ant-design/icons";
 import { TwitterOutlined } from "@ant-design/icons"
 import { FacebookOutlined } from "@ant-design/icons"
+import { InputNumber } from "antd";
+import ScrollNumber from "antd/lib/badge/ScrollNumber";
 
 
 
@@ -27,7 +29,7 @@ const Contact=()=>{
     <h4>Phone</h4>
     <input placeholder=""></input>
     <h5>Your Message</h5>
-    <input placeholder="leave a comment here"></input>
+    <textarea><input placeholder="leave a comment here"></input></textarea>
     <div className="button">
        <a href="#"> <p>Send</p>  </a>
     </div>

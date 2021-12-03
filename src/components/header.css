@@ -1,39 +1,39 @@
 .header{
    height:15vh;
    width:100%;
-   background:rgba(0, 0, 0, 0.849);
+   background:black;
     /* padding:10px 35px 10px 35px;  */
 /* display: flex; */
 /* text-align: center; */
-box-shadow: 0px 10px 15px olivedrab;
+box-shadow: 0px 1px 1px olivedrab;
+margin-bottom: 30px;
 }
  
 
-.logo img{ 
+.logocontainer img{ 
      height: 70px; 
      float: left;
     margin-left: 20px; 
-     margin-top: 15px; 
+     margin-top: 10px; 
      width:100px; 
     
  } 
 .topnav a{
-
 padding:10px;
-
-font-size:larger;
+font-size:20px;
 margin-top: 20px;
+/* background-color: crimson; */
 color:white;
-background-color: olivedrab;
+/* background-color: olivedrab; */
 margin-right: 30px;
 /* display: flex; */
 float:right; 
-border-end-start-radius: 20px; 
+/* border-end-start-radius: 20px;  */
 
 }
  .topnav a:hover{
-     background: rgb(3, 37, 3);
-      color:greenyellow;
+     background: black;
+       color:white; 
 
 
  }

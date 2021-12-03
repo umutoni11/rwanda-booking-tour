@@ -1,61 +1,120 @@
-.aboutus-separate{
+.aboutus{
+    /* background-image: url(../assets/IMAGE/image.jpeg); */
+   color:white;
+   text-align: center;
+   margin-top: -28px;
+   height: 30vh;
+   font-size: larger;
+}
+.aboutus h1{
+    color: white;
+    font-size: 20px;
+}
+.aboutus-cont{
+    background-color: white;
+    width: 90%;
+    height: 70vh;
+    margin-left: 5%;
+    display: flex;
+    border-radius: 45px;
+    border-color: olivedrab;
+   
+    
+}
+/* .aboutus-div{
+    width: 50%;
+    height: 70vh;
+    background-color: darkblue;
+    background-image: url(../assets/IMAGE/Nyungwe-Canopy.jpg ); 
+} */
+.aboutus-div-image{
+    width: 50%;
+    height: 70vh;
+     background-image: url(../assets/IMAGE/Nyungwe-Canopy.jpg ); 
+    /* color: rgba(210, 105, 30, 0.336); */
+    border-radius: 45px;
+    /* backdrop-filter: blur; */
+    /* border-color: olivedrab;
+    filter: blur(1.5px);
+    opacity: .5;
+    top: -5px;
+    left: -5px;
+    right: -5px;
+    bottom: -5px;
+    background: 50% no-repeat;
+    background-size: cover; */
+}
+.aboutus-words h1{
+    color:black
+}
+.aboutus-words p{
+    color: black;
+    font-family: cursive;
+}
+.aboutus-details{
     display: flex;
 }
-
-
-
-.aboutus-div{
-    
-    height:50vh;
-    width: 70vh;
-    margin-left: 200px;
-    margin-top: 80px;
-    padding:40px;
-    background-color: black;
-    /* border-radius: 50%; */
-    /* display: flex; */
-    
+.aboutus-mission{
+    background-color: white;
+    height: 80vh;
+    width: 30%;
+    margin-left: 4%;
+    margin-top: 50px;
+    color: black;
+    font-weight: bold;
 }
-.aboutus-div h1{
-    text-align: center;
-    color: white;
-}
-.aboutus-div p{
-    color:white;
-    padding:30px;
+.aboutus-mission h1{
+    color: black;
     font-family: cursive;
 }
-/* .aboutus-line{
-    color:white;
-    height:70vh;
-    width:5px;
-    background-color:white;
-    margin-left: 20px;
-    margin-top: 40px;
-
-} */
-.aboutus-key {
-    height:50vh;
-    width: 70vh;
-    margin-left: 5px;
-    margin-top: 80px;
-    padding:40px;
-    background-color: black;  
-    /* border-radius: 50%; */
+.missionimage{
+    background-image: url(../assets/IMAGE/mission.png);
+    /* background-color: chocolate; */
+    width: 50%;
+    height: 35vh;
+    margin-left: 22%;
 }
-.aboutus-key h2{
-    text-align: center;
-    color: white;
+.aboutus-values{
+    background-color: white;
+    height: 80vh;
+    width: 30%;
+    margin-left: 1%;
+    margin-top: 50px;
+    color: black;
+    font-weight: bold;
 }
-.aboutus-key p1{
-    color:white;
-    padding:30px;
+.aboutus-values h1{
+    color: black;
+    font-family: cursive;  
+}
+.valuesimage{
+    background-image: url(../assets/IMAGE/values.png);
+    width: 50%;
+    height: 35vh;
+    margin-left: 22%;
+}
+.aboutus-vision{
+    background-color: white;
+    height: 80vh;
+    width: 30%;
+    margin-left: 1%;
+    margin-top: 50px;
+    color: black;
+    font-weight: bold;
+}
+.aboutus-vision h1{
+    color: black;
     font-family: cursive;
 }
-.about-background{
-    background-color: black;
-    height: 50vh;
-    width:70vh;
-    margin-top: 30px;
-    margin-left: 200px;
+.visionimage{
+    background-image: url(../assets/IMAGE/eye.png);
+    width: 50%;
+    height: 35vh;
+    margin-left: 22%;
 }
+.aboutusall{
+    margin-bottom: 1500px;
+
+}
+
+

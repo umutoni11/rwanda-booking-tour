@@ -15,24 +15,24 @@ const Footer = () => {
     return (
         <div className="footer-container">
             <div className="booking-tour">
-                <h1>BOOKING TOUR.COM</h1>
-                <h2>Tel:+250782798849 </h2>
-                <h3>Email:info@bookingtour.com</h3>
-                <h4>Karongi-Rwanda</h4>
+            <a>    <h1>BOOKING TOUR.COM</h1></a>
+            <a>  <h2>Tel:+250782798849 </h2></a>
+            <a>    <h3>Email:info@bookingtour.com</h3></a>
+            <a>   <h4>Karongi-Rwanda</h4></a>
             </div>
             <div className="quick-access">
-                <h1> Quick ACCESS</h1>
-                <h2> Home </h2>
-                <h3> Contact us </h3>
-                <h4> Gallery </h4>
+               <a> <h1> Quick ACCESS</h1></a>
+               <a href="home">  <h2> Home </h2></a>
+               <a href="contact">   <h3> Contact us </h3></a>
+               <a href="Tours"  >    <h4> Gallery </h4></a>
                 <h5> Terms and conditions </h5>
             </div>
             <div className="line">
 
-                <div className="line1"><InstagramOutlined /></div>
-                <div className="line2"><TwitterOutlined /></div> 
-                <div className="line3"><FacebookOutlined /></div>
-                <div className="line4"><LinkedinOutlined /></div>
+           <a><div className="line1"><InstagramOutlined /></div></a> 
+           <a>  <div className="line2"><TwitterOutlined /></div> </a>
+           <a><div className="line3"><FacebookOutlined /></div></a>
+           <a><div className="line4"><LinkedinOutlined /></div></a>
             </div>
             
 

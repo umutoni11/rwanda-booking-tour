@@ -21,7 +21,7 @@ return(
   <>
   
 
-  <Drawer title= "Basic Drawer" placement="left" visible={drawerVisible} width={720} onClose={()=>closerDrawerVisible()}>
+  <Drawer title= "About Tours" placement="left" visible={drawerVisible} width={720} onClose={()=>closerDrawerVisible()}>
     <SingleTour data={data}></SingleTour>
     </Drawer >;
 
